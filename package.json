@@ -1,0 +1,14 @@
+{
+  "name": "loopback-connector-memory-idstr",
+  "version": "1.0.0",
+  "description": "loopback memory connector, with stringified id support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "loopback-datasource-juggler": "^2.30.1"
+  }
+}
