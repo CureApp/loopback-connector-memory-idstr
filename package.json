@@ -10,5 +10,17 @@
   "license": "ISC",
   "dependencies": {
     "loopback-datasource-juggler": "^2.30.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CureApp/loopback-connector-memory-idstr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CureApp/loopback-connector-memory-idstr/issues"
+  },
+  "homepage": "https://github.com/CureApp/loopback-connector-memory-idstr",
+  "keywords": [
+    "loopback",
+    "connector"
+  ]
 }
